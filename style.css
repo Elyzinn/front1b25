@@ -27,3 +27,13 @@ body{
     border: 1px solid red;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
+.produtos .item{
+    display:inline-block;
+    padding: 10px;
+}
+
+.produtos{
+    text-align: center;
+    margin: 20px;
+}
